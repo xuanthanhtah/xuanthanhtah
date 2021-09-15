@@ -7,4 +7,4 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://www.linkedin.com/in/xu%C3%A2n-th%C3%A0nh-35a99421b/) [![Facebook Badge](https://www.facebook.com/xuanthanh2609/)
+[Linkedin](https://www.linkedin.com/in/xu%C3%A2n-th%C3%A0nh-35a99421b/) [Facebook](https://www.facebook.com/xuanthanh2609/)
