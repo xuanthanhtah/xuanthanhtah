@@ -62,13 +62,14 @@
 ## 📈 Wakatime
 
 
-[![wakatime](https://wakatime.com/badge/github/wakatime/coda-wakatime.svg)](https://wakatime.com)
+[![wakatime](https://wakatime.com/badge/github/wakatime/coda-wakatime.svg)](https://wakatime.com/@xuanthanh2609)
 
 Coda plugin to generate metrics from your programming activity.
 
 
 ## 🔗 Links
 
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@XuanThanhh/)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/xuanthanh2609)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lxthanh2609/)
 [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/xuanthanh2609)
