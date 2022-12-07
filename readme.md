@@ -6,23 +6,23 @@
 
 ## 🏅 Achievements
 
--   📝 **- Typical Student and Student of 5 merits** at Ho Chi Minh City University of Technology (HUTECH) (October 2021)
--   🏆 **- Young Talent Award and Consolation prizes in Hutech It Got Talent Contest** at Ho Chi Minh City University of Technology (HUTECH) (December 2021)
--   ⏫ **Typical Student** at Ho Chi Minh City University of Technology (HUTECH) (March 2022)
--   🚁 **Typical Student and Student of 5 merits** at Ho Chi Minh City University of Technology (HUTECH) (November 2022)
+-   📝 [**Typical Student and Student of 5 merits**](https://bit.ly/3QNmiTk) at Ho Chi Minh City University of Technology (HUTECH) (October 2021)
+-   🏆 [**Young Talent Award and Consolation prizes in Hutech It Got Talent Contest**](https://bit.ly/3QNmiTk) at Ho Chi Minh City University of Technology (HUTECH) (December 2021)
+-   ⏫ [**Typical Student**](https://bit.ly/3JYZcHf) at Ho Chi Minh City University of Technology (HUTECH) (March 2022)
+-   🚁 [**Typical Student**](https://bit.ly/3EC0O7p) at Ho Chi Minh City University of Technology (HUTECH) (November 2022)
+-   📝 [**Student of 5 merits**](https://bit.ly/3EXoPqZ) at Ho Chi Minh City University of Technology (HUTECH) (November 2022)
 ## ⭐ Certifications
--   🤝 *General English Test at Intermediate Level (B1)** at Ho Chi Minh City University of Technology (HUTECH) (March 2022)
--   🏆 **Communication and Teamwork Skills at HUTECH** at Ho Chi Minh City University of Technology (HUTECH) (March 2022)
--   📝 **Agile & Scrum Training course ** at DEK Technologies Vietnam (Jun 2022)
--   🚁 **GST Lite** by FPT Software (March 2022)
+-   🤝 [**General English Test at Intermediate Level (B1)**](https://bit.ly/3w8DoDg) at Ho Chi Minh City University of Technology (HUTECH) (March 2022)
+-   🏆 [**Communication and Teamwork Skills at HUTECH**](https://bit.ly/3zXCMS3) at Ho Chi Minh City University of Technology (HUTECH) (March 2022)
+-   📝 [**Agile & Scrum Training course**](https://bit.ly/3PqZPKM) at DEK Technologies Vietnam (Jun 2022)
+-   🚁 [**GST Lite**](https://bit.ly/3U3UMlN) by FPT Software (March 2022)
 
 ## 🛠️ Skills
 
 ### Languages
 
-![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#]
 ![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Front-End Development
