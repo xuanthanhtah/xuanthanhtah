@@ -54,7 +54,6 @@
 ### WakaTime
 
 [![wakatime](https://wakatime.com/badge/github/wakatime/coda-wakatime.svg)](https://wakatime.com/@xuanthanh2609)
-![Project Overview](https://res.cloudinary.com/lxthanh269/image/upload/v1670398764/wakatime_udqvif.png)
 
 ## 🖥️ Workspace Setup
 
