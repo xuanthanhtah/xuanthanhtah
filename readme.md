@@ -2,7 +2,7 @@
 Contact me with:
 <!-- ## 🚀 About Me
 
-🎓 I am Thanh, a **Full Stack Developer**. I am also Pursuing my Bachelor in **Technology Information** and will graduate in mid-2023.
+🎓 I am Thanh, a **Full Stack Developer**. I am also pursuing my Bachelor's in **Technology Information** and will graduate in mid-2023.
 
 ## 🏅 Achievements
 
@@ -39,7 +39,7 @@ Contact me with:
 ![asp .net core](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![spring boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-### Cross Platform Development
+### Cross-Platform Development
 
 ![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)
 
